@@ -18,5 +18,5 @@
 <li>БЭМ</li>
 </ul>
 
-<p>Скачать проект с <a href="https://github.com/BadChump/how-to-learn" title="Title">
+<p>Скачать проект с <a href="https://github.com/BadChump/how-to-learn" title="репозитория">
 an example</a> Github</p>
