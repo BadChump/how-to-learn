@@ -1,6 +1,7 @@
 @import '../vendor/normalize.css';
 @import '../vendor/fonts/fonts.css';
 @import '../blocks/page/page.css';
+@import '../blocks/page/__links/page__links.css';
 @import '../blocks/header/header.css';
 @import '../blocks/logo/logo.css';
 @import '../blocks/logo/_place/logo_place_header.css';
