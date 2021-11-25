@@ -25,8 +25,8 @@
 @import '../blocks/table/__text/table__text.css';
 @import '../blocks/kaufman/kaufman.css';
 @import '../blocks/kaufman/__triangle/kaufman__triangle.css';
-@import '../blocks/section-title/__theme_dark/section-title_theme_dark.css';
-@import '../blocks/section-subtitle/__theme_dark/section-subtitle_theme_dark.css';
+@import '../blocks/section-title/_theme/section-title_theme_dark.css';
+@import '../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css';
 @import '../blocks/table/_theme/table_theme_dark.css';
 @import '../blocks/table/__cell/_theme/table__cell_theme_dark.css';
 @import '../blocks/table/__heading/_theme/table__heaing_theme_dark.css';
